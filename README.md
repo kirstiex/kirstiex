@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&color=aab2cb" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:aab2cb,100:efe3ec&height=120&section=header" />
 ### Hi there I'm Kirstie Goggans 👋
 
 <!--
