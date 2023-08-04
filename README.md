@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=aeadfd&center=true&width=850&lines=%22No+great+thing+is+created+suddenly.%22+-+Epictetus" alt="Typing No great thing is created suddenly - Epictetus" /></a>
 
-Hi, I'm Kirstie Goggans, a software developer with a passion for creative programming. I believe in learning through hands-on experience and having an open, positive mindset. I am currently studying Full Stack Development and In my free time, I enjoy engaging in a variety of activities such as traveling, reading, practicing hygge, taking photographs, painting, and spending time with my family. As a friendly introvert, I appreciate the opportunity to meet new people in peaceful, low-key settings.
+Hi, I'm Kirstie Goggans, a software developer with a passion for creative programming. I believe in learning through hands-on experience and having an open, positive mindset. I am currently studying Full Stack Development and In my free time, I enjoy engaging in a variety of activities such as traveling, photography, graphic design, and spending time with my family. As a friendly introvert, I appreciate the opportunity to meet new people in peaceful, low-key settings.
   
   
   <img width="59%" height="195px" src="https://github-readme-stats-kirstiex.vercel.app/api?username=kirstiex&show_icons=true&count_private=true&hide_border=true&title_color=aeadfd&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Kirstie Goggans github stats" /> 
